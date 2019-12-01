@@ -3,7 +3,7 @@ let input = document.querySelector('input');
 // input.addEventListener('focus', textController);
 
 
-let text = 'Ты петух';
+let text = 'Ты красавчик';
 
 function textController(){
     console.log(input.value.length)
